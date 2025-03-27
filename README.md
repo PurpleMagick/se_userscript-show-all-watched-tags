@@ -1,6 +1,6 @@
 # Description
 
-This userscript will expand the Watched tags if they are truncated:
+This userscript will expand the watched tags in the right sidebar column if they are truncated:
 
 [![Example of truncated watched list][1]][1]
 
